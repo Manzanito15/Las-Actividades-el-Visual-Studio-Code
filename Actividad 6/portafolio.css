@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 73, 103);
+    font-family: 'Times New Roman', Times, serif;
+}
+.yiver{
+color: white;
+text-align: center;
+position: relative;
+top: -70px;
+}
+.fecha{
+text-align: right;
+color: black;
+position: relative;
+top: -120px;
+right: 5px;
+}
+.mi{
+    color: white;
+}
+.sobre{
+    color: black;
+}

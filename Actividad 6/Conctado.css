@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(24, 24, 24);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+textarea{
+color: white;
+background-color: rgb(255, 73, 103);
+position: relative;
+top: 250px;
+left: -360px;
+}
+input{
+color: white;
+position: relative;
+top: 300px;
+right: -100px;
+}
+.nom{
+    color: black;
+position: relative;
+top: 0px;
+left: 554px;
+background-color: rgb(255, 73, 103);
+border-radius: 7px;
+border-color: white;
+}
+label{
+color: white;
+}
+.nomb{
+position: relative;
+top: 40px;
+right: -480px;
+}
+.gmail{
+    position: relative;
+    top: 50px;
+    right: -305px;
+}
+.email{
+    color: black;
+    position: relative;
+    top: 50px;
+    right: -329px;
+    background-color: rgb(255, 73, 103);
+    border-radius: 7px;
+    border-color: white;
+}
+.telefon{
+position: relative;
+top: 100px;
+right: -70px;
+}
+.numb{
+color: black;
+    position: relative;
+top: 100PX;
+left: 85px;
+background-color: rgb(255, 73, 103);
+border-radius: 7px;
+border-color: white;
+}
+.contra{
+position: relative;
+top: 160px;
+left: -195px;
+}
+.pass{
+color: black;
+position: relative;
+top: 160px;
+left: -182px;
+background-color: rgb(255, 73, 103);
+border-radius: 7px;
+border-color: white;
+}
+button{
+    position: relative;
+    top: 300px;
+    right: 476px;
+    border-radius: 5px;
+    border-color: black;
+}

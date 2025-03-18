@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    body{
+        background-color:  rgb(24, 24, 24);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        .naruto{
+    position: relative;
+    right: -7px;
+    top: -25px;
+        }
+    h1{
+    text-align: center;
+    }
+    .naru{
+    color: orange;
+    position: relative;
+    top: -1110px;
+    right: -0px;
+    text-align: center;
+    }
+    .n1n{
+    color: white;
+    position: relative;
+    top: -55px;
+    left: 20px;
+    }
+    .prox{
+    color: red;
+    background-color: white;
+    text-align: center;
+    margin-right: 625px;
+    margin-left: 620px;
+    border-radius: 15px;
+    position: relative;
+    top: -80px;
+    right: -615px;
+    }
+    .ante{
+    color: white;
+    background-color: red;
+    text-align: center;
+    margin-left: 620px;
+    margin-right: 630px;
+    border-radius: 15px;
+    position: relative;
+    top: -106px;
+    left: 520px;
+    }

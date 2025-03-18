@@ -1,0 +1,162 @@
+body{
+    background-color: rgb(24, 24, 24);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.encabezado{
+    background-color: rgb(24, 24, 24);
+    color: red;
+position: relative;
+right: -155px;
+top: -3px;
+}
+.img{
+cursor: pointer;
+}
+.sesion{
+border: 5px;
+border-radius: 65px;
+display: block;
+margin-left: auto;
+  margin-right: right;
+  position: relative;
+  top: -200px;
+  left: -15px;
+}
+.servicio{
+    color: white;
+    position: relative;
+    top: -51px;
+right: -245px;
+}
+.Quienes{
+    color: white;
+    position: relative;
+    top: -97px;
+right: -365px;
+}
+.Conctado{
+    color: white;
+    position: relative;
+    top: -143px;
+right: -579px;
+}
+.busqueda{
+    border: 5px;
+    border-radius: 65px;
+    display: block;
+    margin-left: auto;
+      margin-right: right;
+      position: relative;
+      top: -240px;
+      left: -75px;
+}
+.logo{
+border: solid 5px rgb(24, 24, 24);
+border-radius: 7px;
+}
+.log{
+border-radius: 7px;
+position: relative;
+top: -290px;
+left: 0px;
+}
+.ser{
+color: black;
+background-color: white;
+position: relative;
+left: -560px;
+margin-top: -225px;
+margin-left: 562px;
+margin-right: 585px;
+border-radius: 5px;
+text-align: center;
+}
+.mas{
+color: white;
+background-color: grey;
+opacity: 1;
+margin-right: 1179px;
+border-radius: 5px;
+position: relative;
+right: -200px;
+top: -39px;
+text-align: center;
+}
+.vin{
+position: relative;
+top: -40px;
+right: -0px;
+}
+.pro{
+ position: relative;
+ top: -40px;
+ right: -4px;   
+}
+.los{position: relative;
+    top: -40px;
+    right: -5px;   
+}
+.ra{position: relative;
+    top: -40px;
+    right: -295px;  
+ }
+.ha{position: relative;
+    top: -30px;
+    right:-px ;   
+}
+.rap{position: relative;
+    top: -236px;
+    right: -575px;   
+}
+.blac{
+    position: relative;
+    top: -30px;
+right: 280px;
+}
+.flash{
+position: relative;
+top: -30px;
+right: 280px;
+}
+.pris{
+    position: relative;
+    top: -227px;
+    left: 860px;
+}
+.dc{
+position: relative;
+top: -225px;
+left: 865px;
+}
+.juju{
+position: relative;
+top: -22px;
+right: 568px;
+
+}
+.cocina{
+position: relative;
+top: -22px;
+right: 564px;
+}
+.brea{
+position: relative;
+top: -219px;
+left: 575px;
+}
+.hxh{
+position: relative;
+top: -219px;
+left: 576px;
+}
+.bleach{
+position: relative;
+top: -219px;
+right: -580px;
+}
+.anucio{
+background-image: url(Naruto-Warner-Channel.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+    
+}
