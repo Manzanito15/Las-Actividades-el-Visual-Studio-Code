@@ -1,0 +1,292 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;700&display=swap');
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+background-color: rgb(10, 10, 20);
+font-family: 'Montserrat', sans-serif; 
+line-height: 1.7; 
+height: 2900px;
+}
+a{
+text-decoration: none;
+color: white;
+}
+header{
+display: flex;
+height: 70px;
+justify-content: space-between;
+align-items: center;
+padding: 10px;
+position: fixed;
+left: 0px;
+right: 0px;
+top: -13px;
+z-index: 9999;
+background-color: rgb(10, 10, 20);
+}
+.enca{
+display: flex;
+align-items: center;
+}
+nav a{
+font-weight: 600;
+padding-right: 15px;
+}
+.eje{
+position: relative;
+left: -820px;
+top: 25px;
+font-size: 18px;
+}
+h2{
+padding-right: 15px;
+font-weight: 900;
+color: rgb(0, 110, 255);
+position: relative;
+top: 5px;
+left: 490px;
+font-size: 42px;
+}
+.beza{
+display: flex;
+align-items: center;
+font-weight: 900;
+}
+.j{
+font-size: 18px;
+position: relative;
+top: -5px;
+left: 5px;
+}
+.navbar{
+display: flex;
+justify-content: center;
+background-color: rgb(0, 110, 255);
+position: relative;
+top: 55px;
+}
+
+.container{
+	max-width: 1170px;
+	margin:auto;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+ul{
+	list-style: none;
+}
+.footer{
+	background-color: #24262b;
+    padding: 70px 0;
+position: absolute;
+top: 2800px;
+left: 0px;
+width: 100%;
+}
+.footer-col{
+   width: 25%;
+   padding: 0 15px;
+}
+.footer-col h4{
+	font-size: 18px;
+	color: white;
+	text-transform: capitalize;
+	margin-bottom: 35px;
+	font-weight: 500;
+	position: relative;
+}
+.footer-col h4::before{
+	content: '';
+	position: absolute;
+	left:0;
+	bottom: -10px;
+	background-color: rgb(0, 110, 255);
+	height: 2px;
+	box-sizing: border-box;
+	width: 50px;
+}
+.footer-col ul li:not(:last-child){
+	margin-bottom: 10px;
+}
+.footer-col ul li a{
+	font-size: 16px;
+	text-transform: capitalize;
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: 300;
+	color: white;
+	display: block;
+	transition: all 0.3s ease;
+}
+.footer-col ul li a:hover{
+	color: #ffffff;
+	padding-left: 8px;
+}
+.footer-col .social-links a{
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	background-color: rgba(255,255,255,0.2);
+	margin:0 10px 10px 0;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50%;
+	color: #ffffff;
+	transition: all 0.5s ease;
+}
+.footer-col .social-links a:hover{
+	color: #24262b;
+	background-color: #ffffff;
+}
+.anu{
+border-radius: 2px;
+position: relative;
+left: 100px;
+top: 100px;
+}
+.ci{
+position: relative;
+top: 105px;
+left: 111px;
+color: white;
+font-size: 24px;
+}
+.o{
+position: relative;
+top: 105px;
+left: 113px;
+color: white;
+font-size: 24px;
+}
+.va{
+position: relative;
+left: 950px;
+top: -399px;
+}
+.conse{
+	position: relative;
+left: 951px;
+top: -400px;
+}
+.z{
+position: relative;
+left: 951px;
+top: -390px;
+}
+.x{
+position: relative;
+left: 951px;
+top: -380px;
+}
+.c{
+position: relative;
+left: 680px;
+top: -713px;
+}
+.v{
+position: relative;
+top: -1015px;
+left: 415px;
+}
+.b{
+position: relative;
+top: -1315px;
+left: 140px;
+}
+.b span{
+color: orange;
+position: relative;
+top: 0px;
+right: 0px;
+font-size: 14px;
+}
+.n{
+position: relative;
+left: 150px;
+top: -1100px;
+}
+.n h3{
+position: relative;
+left: 530px;
+top: -290px;
+font-size: 28px;
+}
+.n span{
+color: orange;
+font-size: 20px;
+position: relative;
+left: 535px;
+top: -255px;
+}
+.ña{
+font-size: 40px;
+color: gray;
+position: relative;
+left: 120px;
+top: -1205px;
+}
+.m{
+position: relative;
+left: 100px;
+top: -1180px;
+}
+.m span{
+color: orange;
+font-size: 25;
+position: relative;
+}
+.zz{
+position: relative;
+top: -1670px;
+left: 640px;
+}
+.zz h3{
+position: relative;
+left: 260px;
+top: -150px;
+}
+.xx{
+position: relative;
+top: -1785px;
+left: 640px;
+}
+.xx h3{
+position: relative;
+top: -140px;
+left: 255px;
+}
+.cc{
+position: relative;
+top: -1875px;
+left: 640px;
+}
+.cc h3{
+position: relative;
+top: -145px;
+left: 258px;
+}
+.vv{
+position: relative;
+top: -1970px;
+left: 100px;
+}
+.bb{
+	position: relative;
+	top: -2240px;
+	left: 365px;
+}
+.nn{
+	position: relative;
+	top: -2545px;
+	left: 635px;
+}
+.mm{
+	position: relative;
+	top: -2850px;
+	left: 915px;
+}
